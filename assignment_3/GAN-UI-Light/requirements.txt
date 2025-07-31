@@ -1,0 +1,9 @@
+streamlit==1.33.0
+torch==2.1.0
+torchvision==0.16.0
+numpy==1.26.4
+Pillow==10.2.0
+ninja==1.11.1
+click==8.1.7
+imageio-ffmpeg==0.4.3
+pyspng==0.1.0
