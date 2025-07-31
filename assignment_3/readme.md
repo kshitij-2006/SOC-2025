@@ -20,7 +20,7 @@ Docker-Based Setup
 You can run this app inside a Docker container for full environment reproducibility.
  Step 1: Clone this Repository
 ```bash
-git clone https://github.com/kshitij-2006/SOC-2025/
+git clone https://github.com/kshitij-2006/SOC-2025/assignment_3
 cd Morphix-GAN-UI
 docker build -t morphix-ui .
 docker run -p 8501:8501 morphix-ui
